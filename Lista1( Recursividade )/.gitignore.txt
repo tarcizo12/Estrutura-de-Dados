@@ -1,3 +1,0 @@
-/.gitignore
-/Lista1( Recursividade ).iml
-/.idea
